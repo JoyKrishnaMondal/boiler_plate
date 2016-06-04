@@ -8,7 +8,7 @@
    "snabbdom":"*",
    "most":"*",
    "ramda":"*",
-   "velocity-commonjs":"*",
+   "velocity-commonjs":"*"
   },
   "author": "joy krishna mondal",
   "license": "MIT"
