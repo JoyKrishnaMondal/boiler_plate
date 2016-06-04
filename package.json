@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "dist/main.js",
+  "dependencies":
+  {
+   "snabbdom":"*",
+   "most":"*",
+   "ramda":"*"
+  },
   "author": "joy krishna mondal",
   "license": "MIT"
 }
