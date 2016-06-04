@@ -1,0 +1,12 @@
+node_modules
+index.html
+Fonts
+config.json
+config.json.ls
+css.css
+normalize.css
+src.js
+static.js
+src/cmd.bat
+dist/config.json
+dist/config.json.ls
